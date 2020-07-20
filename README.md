@@ -49,20 +49,15 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 For this project, my Jupyter Notebook contains the following specifications:
 
-#### Organization/Code Cleanliness
-
-
 #### Visualizations & EDA
 
-* Question 1:  
-* Question 2:
-* Question 3:   
-* Question 4:
+* Question 1: What are influential factors on house tours? 
+* Question 2: What are influential factors on house buyers' decision-making behaviors?
+* Question 3: What are influential factors on house price?   
 
 #### Model Quality/Approach
 
 * baseline model without dummies
 * baseline model with dummies
- 
 
 ### Non-Technical Presentation Must-Haves
