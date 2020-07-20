@@ -39,7 +39,7 @@ I would like to utilize this data to study house buyers' decision-making behavio
    
 https://en.wikipedia.org/wiki/Seattle
 
-Coordinates: 47°36′35″N 122°19′59″W
+Coordinates of Seattle WA: 47°36′35″N 122°19′59″W
 
 https://en.wikipedia.org/wiki/History_of_Seattle
 
