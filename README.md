@@ -51,9 +51,6 @@ For this project, my Jupyter Notebook contains the following specifications:
 
 #### Organization/Code Cleanliness
 
-* The notebook should be well organized, easy to follow,  and code should be commented where appropriate.  
-    * Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code.  All functions have docstrings that act as professional-quality documentation
-* The notebook is written for technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
 
 #### Visualizations & EDA
 
