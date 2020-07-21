@@ -87,7 +87,7 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   
     * renovation : interior area vs. price
     
-    Renovated houses are **older** than those without renovation, so that they are **not** as attractive as new ones.
+    Renovated houses are **older** than those without renovation, so that they are **not** as attractive as new ones. Moreover, owing to maintenance expense, renovated houses are a bit more pricey than those without additional cost.  
     
     ![EDAQ1](./image/mod2_EDAQ1-p5.png)
     
@@ -100,6 +100,9 @@ https://en.wikipedia.org/wiki/History_of_Seattle
     ![EDAQ1](./image/mod2_EDAQ1-p6.png)
   
     * house age : age vs. price
+    
+    
+    
       - latitude
       ![EDAQ1](./image/mod2_EDAQ1-p7.png)
       - longitude
