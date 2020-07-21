@@ -66,16 +66,22 @@ For this project, my Jupyter Notebook contains the following specifications:
   - price
     * grade : interior area vs. price
   ![EDAQ1](./image/mod2_EDAQ1-p1.png)
+  
     * condition : interior area vs. price
   ![EDAQ1](./image/mod2_EDAQ1-p2.png)
+  
     * latitude (N/S) : interior area vs. price 
   ![EDAQ1](./image/mod2_EDAQ1-p3.png)
+  
     * longitude (E/W) : interior area vs. price
   ![EDAQ1](./image/mod2_EDAQ1-p4.png)
+  
     * renovation : interior area vs. price
   ![EDAQ1](./image/mod2_EDAQ1-p5.png)
+  
     * basement : interior area vs. price
   ![EDAQ1](./image/mod2_EDAQ1-p6.png)
+  
     * house age : age vs. price
       - latitude
     ![EDAQ1](./image/mod2_EDAQ1-p7.png)
