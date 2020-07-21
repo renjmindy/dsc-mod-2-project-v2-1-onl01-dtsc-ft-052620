@@ -5,8 +5,6 @@
 
 I would like to utilize this data to study house buyers' decision-making behaviors, e.g. customer purchase behavior modeling. 
 
----------------------------------------------------------------------------------------------------------------------------------------
-
 **What're major factors that make impact on house buyers' behaviors?**
 
 * house **location**
@@ -45,6 +43,8 @@ Coordinates of Seattle WA: 47°36′35″N 122°19′59″W
 https://en.wikipedia.org/wiki/History_of_Seattle
 
 ![Motivation](./image/motivation.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 For this project, my Jupyter Notebook contains the following specifications:
 
