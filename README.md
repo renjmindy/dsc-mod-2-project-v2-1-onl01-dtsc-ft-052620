@@ -52,6 +52,10 @@ For this project, my Jupyter Notebook contains the following specifications:
 #### Visualizations & EDA
 
 * Question 1: What are influential factors on house tours? 
+  - season
+  ![EDAQ1](./image/mod2_EDAQ1-1.png)
+  - grade
+  
 * Question 2: What are influential factors on house buyers' decision-making behaviors?
 * Question 3: What are influential factors on house price?   
 
