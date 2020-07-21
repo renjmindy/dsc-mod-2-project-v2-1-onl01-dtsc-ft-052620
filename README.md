@@ -1,10 +1,11 @@
 
 # Seattle Housing Project
 
-
 ## Motivation
 
 I would like to utilize this data to study house buyers' decision-making behaviors, e.g. customer purchase behavior modeling. 
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 **What're major factors that make impact on house buyers' behaviors?**
 
@@ -94,11 +95,23 @@ For this project, my Jupyter Notebook contains the following specifications:
       ![EDAQ1](./image/mod2_EDAQ1-p9.png)
       - longitude
       ![EDAQ1](./image/mod2_EDAQ1-p10.png)
+      
+## Analysis:
+
+## Recommendations:
+
+## Future Work:
   
 * Question 2: What are influential factors on house buyers' decision-making behaviors?
   - view
   - purchase, i.e. house sold months (season)
    
+## Analysis:
+
+## Recommendations:
+
+## Future Work:
+
 
 ### Model Quality/Approach
 
