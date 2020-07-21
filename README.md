@@ -63,30 +63,35 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   
     * grade : interior area vs. price
     
-    Over Thanksgiving and Xmas holiday seasons, higher graded houses attract more guests, visitors and buyers for tours.
+    Over *Thanksgiving and Xmas* holiday seasons, **higher graded** houses attract more guests, visitors and buyers for tours.
     
     ![EDAQ1](./image/mod2_EDAQ1-p1.png)
   
     * condition : interior area vs. price
     
-    Over Thanksgiving and Xmas holiday seasons, well-maintained houses attract more guests, visitors and buyers for tours.
+    Over *Thanksgiving and Xmas* holiday seasons, **well-maintained** houses attract more guests, visitors and buyers for tours.
     
     ![EDAQ1](./image/mod2_EDAQ1-p2.png)
   
     * latitude (N/S) : interior area vs. price 
     
-    Over Thanksgiving and Xmas holiday seasons, houses located at ###northern of Seattle### attract more guests, visitors and buyers for tours.
+    Over *Thanksgiving and Xmas* holiday seasons, houses located at **northern of Seattle** attract more guests, visitors and buyers for tours.
     
     ![EDAQ1](./image/mod2_EDAQ1-p3.png)
   
     * longitude (E/W) : interior area vs. price
     
-    
+    Over *Thanksgiving and Xmas* holiday seasons, houses located at **eastern of Seattle** attract more guests, visitors and buyers for tours.
     
     ![EDAQ1](./image/mod2_EDAQ1-p4.png)
   
     * renovation : interior area vs. price
+    
+    Renovated houses are older than those without renovation.
+    
     ![EDAQ1](./image/mod2_EDAQ1-p5.png)
+    
+    ![EDAQ1](./image/mod2_EDAQ1-p11.png)
   
     * basement : interior area vs. price
     ![EDAQ1](./image/mod2_EDAQ1-p6.png)
