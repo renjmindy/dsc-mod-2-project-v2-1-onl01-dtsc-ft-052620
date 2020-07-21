@@ -46,8 +46,6 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-For this project, my Jupyter Notebook contains the following specifications:
-
 # Visualizations & EDA
 
 ## Question: What are influential factors on house price?
@@ -112,6 +110,7 @@ For this project, my Jupyter Notebook contains the following specifications:
 
 ### Future Work:
 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ## Model Quality/Approach
 
