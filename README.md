@@ -87,13 +87,16 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   
     * renovation : interior area vs. price
     
-    Renovated houses are older than those without renovation, so that they are not as attractive as new ones.
+    Renovated houses are **older** than those without renovation, so that they are **not** as attractive as new ones.
     
     ![EDAQ1](./image/mod2_EDAQ1-p5.png)
     
     ![EDAQ1](./image/mod2_EDAQ1-p11.png)
   
     * basement : interior area vs. price
+    
+    Houses with basements are more pricey (because of larger living area) than without. Therefore, they are **not** quite attrative. 
+    
     ![EDAQ1](./image/mod2_EDAQ1-p6.png)
   
     * house age : age vs. price
