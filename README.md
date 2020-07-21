@@ -1,7 +1,7 @@
 
 # Seattle Housing Project
 
-## Motivation
+# Motivation
 
 I would like to utilize this data to study house buyers' decision-making behaviors, e.g. customer purchase behavior modeling. 
 
@@ -48,14 +48,14 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 For this project, my Jupyter Notebook contains the following specifications:
 
-### Visualizations & EDA
+# Visualizations & EDA
 
-* Question: What are influential factors on house price?
+## Question: What are influential factors on house price?
 
 ![EDA](./image/mod2_EDA_p1.png)
 ![EDA](./image/mod2_EDA_p2.png)
 
-* Question 1: What are influential factors on house tours? 
+## Question 1: What are influential factors on house tours? 
   - season
   - grade (evaluation)
   - condition
@@ -96,24 +96,24 @@ For this project, my Jupyter Notebook contains the following specifications:
       - longitude
       ![EDAQ1](./image/mod2_EDAQ1-p10.png)
       
-## Analysis:
+### Analysis:
 
-## Recommendations:
+### Recommendations:
 
-## Future Work:
+### Future Work:
   
-* Question 2: What are influential factors on house buyers' decision-making behaviors?
+## Question 2: What are influential factors on house buyers' decision-making behaviors?
   - view
   - purchase, i.e. house sold months (season)
    
-## Analysis:
+### Analysis:
 
-## Recommendations:
+### Recommendations:
 
-## Future Work:
+### Future Work:
 
 
-### Model Quality/Approach
+## Model Quality/Approach
 
 * baseline model without dummies
 * baseline model with dummies
