@@ -54,7 +54,6 @@ For this project, my Jupyter Notebook contains the following specifications:
 ![EDA](./image/mod2_EDA_p2.png)
 
 * Question 1: What are influential factors on house tours? 
-  
   - season
   - grade (evaluation)
   - condition
