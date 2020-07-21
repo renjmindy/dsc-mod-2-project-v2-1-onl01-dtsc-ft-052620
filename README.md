@@ -87,7 +87,7 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   
     * renovation : interior area vs. price
     
-    Renovated houses are older than those without renovation.
+    Renovated houses are older than those without renovation, so that they are not as attractive as new ones.
     
     ![EDAQ1](./image/mod2_EDAQ1-p5.png)
     
