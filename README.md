@@ -61,7 +61,7 @@ For this project, my Jupyter Notebook contains the following specifications:
   - condition
   - location
   - house age
-  - house amenities
+  - house amenities (basement, lot)
   - maintenance (renovation)
   - price
   
@@ -88,6 +88,12 @@ For this project, my Jupyter Notebook contains the following specifications:
       ![EDAQ1](./image/mod2_EDAQ1-p7.png)
       - longitude
       ![EDAQ1](./image/mod2_EDAQ1-p8.png)
+      
+    * house age : age vs. interior area
+      - latitude
+      ![EDAQ1](./image/mod2_EDAQ1-p9.png)
+      - longitude
+      ![EDAQ1](./image/mod2_EDAQ1-p10.png)
   
 * Question 2: What are influential factors on house buyers' decision-making behaviors?
   - view
