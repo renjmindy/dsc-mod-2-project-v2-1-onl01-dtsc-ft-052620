@@ -65,9 +65,14 @@ For this project, my Jupyter Notebook contains the following specifications:
   - maintenance (renovation)
   - price
   
+    ~ grade
   ![EDAQ1](./image/mod2_EDAQ1-1.png)
+    ~ condition
   ![EDAQ1](./image/mod2_EDAQ1-2.png)
+    ~ latitude (N/S)
   ![EDAQ1](./image/mod2_EDAQ1-3.png)
+    ~ longitude
+    ~ renovation
   ![EDAQ1](./image/mod2_EDAQ1-4.png)
   ![EDAQ1](./image/mod2_EDAQ1-5.png)
   
