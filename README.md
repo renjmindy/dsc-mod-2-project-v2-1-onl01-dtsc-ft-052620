@@ -64,29 +64,30 @@ For this project, my Jupyter Notebook contains the following specifications:
   - house amenities
   - maintenance (renovation)
   - price
+  
     * grade : interior area vs. price
-  ![EDAQ1](./image/mod2_EDAQ1-p1.png)
+    ![EDAQ1](./image/mod2_EDAQ1-p1.png)
   
     * condition : interior area vs. price
-  ![EDAQ1](./image/mod2_EDAQ1-p2.png)
+    ![EDAQ1](./image/mod2_EDAQ1-p2.png)
   
     * latitude (N/S) : interior area vs. price 
-  ![EDAQ1](./image/mod2_EDAQ1-p3.png)
+    ![EDAQ1](./image/mod2_EDAQ1-p3.png)
   
     * longitude (E/W) : interior area vs. price
-  ![EDAQ1](./image/mod2_EDAQ1-p4.png)
+    ![EDAQ1](./image/mod2_EDAQ1-p4.png)
   
     * renovation : interior area vs. price
-  ![EDAQ1](./image/mod2_EDAQ1-p5.png)
+    ![EDAQ1](./image/mod2_EDAQ1-p5.png)
   
     * basement : interior area vs. price
-  ![EDAQ1](./image/mod2_EDAQ1-p6.png)
+    ![EDAQ1](./image/mod2_EDAQ1-p6.png)
   
     * house age : age vs. price
       - latitude
-    ![EDAQ1](./image/mod2_EDAQ1-p7.png)
+      ![EDAQ1](./image/mod2_EDAQ1-p7.png)
       - longitude
-    ![EDAQ1](./image/mod2_EDAQ1-p8.png)
+      ![EDAQ1](./image/mod2_EDAQ1-p8.png)
   
 * Question 2: What are influential factors on house buyers' decision-making behaviors?
   - view
