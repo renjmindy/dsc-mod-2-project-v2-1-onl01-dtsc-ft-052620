@@ -51,6 +51,9 @@ For this project, my Jupyter Notebook contains the following specifications:
 
 #### Visualizations & EDA
 
+![EDA](./image/mod2_EDA_p1.png)
+![EDA](./image/mod2_EDA_p2.png)
+
 * Question 1: What are influential factors on house tours? 
   - season
   - grade (evaluation)
@@ -61,6 +64,8 @@ For this project, my Jupyter Notebook contains the following specifications:
   ![EDAQ1](./image/mod2_EDAQ1-1.png)
   ![EDAQ1](./image/mod2_EDAQ1-2.png)
   ![EDAQ1](./image/mod2_EDAQ1-3.png)
+  ![EDAQ1](./image/mod2_EDAQ1-4.png)
+  ![EDAQ1](./image/mod2_EDAQ1-5.png)
   
 * Question 2: What are influential factors on house buyers' decision-making behaviors?
 * Question 3: What are influential factors on house price?   
