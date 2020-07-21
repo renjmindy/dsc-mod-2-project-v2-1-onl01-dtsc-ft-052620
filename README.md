@@ -45,21 +45,23 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ![Motivation](./image/motivation.png)
 
-### Jupyter Notebook Must-Haves
-
 For this project, my Jupyter Notebook contains the following specifications:
 
-#### Visualizations & EDA
+### Visualizations & EDA
 
+* Question: What are influential factors on house price?
 ![EDA](./image/mod2_EDA_p1.png)
 ![EDA](./image/mod2_EDA_p2.png)
 
 * Question 1: What are influential factors on house tours? 
+  
   - season
   - grade (evaluation)
   - condition
   - location
   - house age
+  - house amenities
+  - maintenance (renovation)
   
   ![EDAQ1](./image/mod2_EDAQ1-1.png)
   ![EDAQ1](./image/mod2_EDAQ1-2.png)
@@ -68,11 +70,9 @@ For this project, my Jupyter Notebook contains the following specifications:
   ![EDAQ1](./image/mod2_EDAQ1-5.png)
   
 * Question 2: What are influential factors on house buyers' decision-making behaviors?
-* Question 3: What are influential factors on house price?   
+   
 
-#### Model Quality/Approach
+### Model Quality/Approach
 
 * baseline model without dummies
 * baseline model with dummies
-
-### Non-Technical Presentation Must-Haves
