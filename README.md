@@ -1,7 +1,5 @@
 
-# Seattle Housing Project
-
-# Motivation
+# Seattle Housing Project: Motivation
 
 I would like to utilize this data to study house buyers' decision-making behaviors, e.g. customer purchase behavior modeling. 
 
@@ -64,10 +62,13 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   - price
   
     * grade : interior area vs. price
+    
     Over Thanksgiving and Xmas holiday seasons, higher graded houses attract more guests, visitors and buyers for tours.
     ![EDAQ1](./image/mod2_EDAQ1-p1.png)
   
     * condition : interior area vs. price
+    
+    Over Thanksgiving and Xmas holiday seasons, well-maintained houses attract more guests, visitors and buyers for tours.
     ![EDAQ1](./image/mod2_EDAQ1-p2.png)
   
     * latitude (N/S) : interior area vs. price 
