@@ -101,17 +101,25 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   
     * house age : age vs. price
     
-    
-    
       - latitude
+      
+      Houses located **northern of Seattle** are younger. Newer houses are likely to attract higher condition credit and greater evaluation grade, so that they are more pricey. Moreover, owing to growing population with more and more business migration into Seattle with years, the need of building more houses for the younger generation increases, accordingly. These newer houses were built toward northern and eastern directions of away from Seattle.           
+      
       ![EDAQ1](./image/mod2_EDAQ1-p7.png)
+      
+      Houses located **eastern of Seattle** are younger. 
+      
       - longitude
       ![EDAQ1](./image/mod2_EDAQ1-p8.png)
       
     * house age : age vs. interior area
+    
       - latitude
+      
       ![EDAQ1](./image/mod2_EDAQ1-p9.png)
+      
       - longitude
+      
       ![EDAQ1](./image/mod2_EDAQ1-p10.png)
       
 ### Analysis:
