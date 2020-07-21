@@ -63,6 +63,7 @@ For this project, my Jupyter Notebook contains the following specifications:
   - house age
   - house amenities
   - maintenance (renovation)
+  - price
   
   ![EDAQ1](./image/mod2_EDAQ1-1.png)
   ![EDAQ1](./image/mod2_EDAQ1-2.png)
@@ -71,6 +72,8 @@ For this project, my Jupyter Notebook contains the following specifications:
   ![EDAQ1](./image/mod2_EDAQ1-5.png)
   
 * Question 2: What are influential factors on house buyers' decision-making behaviors?
+  - view
+  - purchase, i.e. house sold months (season)
    
 
 ### Model Quality/Approach
