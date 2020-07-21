@@ -52,7 +52,6 @@ For this project, my Jupyter Notebook contains the following specifications:
 
 * Question: What are influential factors on house price?
 
-
 ![EDA](./image/mod2_EDA_p1.png)
 ![EDA](./image/mod2_EDA_p2.png)
 
@@ -67,6 +66,7 @@ For this project, my Jupyter Notebook contains the following specifications:
   - price
   
     * grade : interior area vs. price
+    Over Thanksgiving and Xmas holiday seasons, higher graded houses attract more guests, visitors and buyers for tours.
     ![EDAQ1](./image/mod2_EDAQ1-p1.png)
   
     * condition : interior area vs. price
