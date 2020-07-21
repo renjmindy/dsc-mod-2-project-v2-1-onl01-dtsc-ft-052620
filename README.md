@@ -48,7 +48,6 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 For this project, my Jupyter Notebook contains the following specifications:
 
 ### Visualizations & EDA
-
 * Question: What are influential factors on house price?
 ![EDA](./image/mod2_EDA_p1.png)
 ![EDA](./image/mod2_EDA_p2.png)
