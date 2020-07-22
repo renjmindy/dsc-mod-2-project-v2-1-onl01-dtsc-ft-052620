@@ -104,11 +104,11 @@ https://en.wikipedia.org/wiki/History_of_Seattle
     
       - latitude
       
-      Houses located **northern of Seattle** are younger. Newer houses are likely to attract higher condition credit and greater evaluation grade, so that they are more pricey. Moreover, owing to growing population with more and more business migration into Seattle with years, the need of building more houses for the younger generation increases, accordingly. These newer houses were built away from Seattle radially towrad Canada or Idaho.           
+      Houses located at **northern of Seattle** are younger. Newer houses are likely to attract higher condition score and better grade based on the King county grading scale, so that, relatively, they tend to be more pricey than older ones, which were built earlier and closer to Seattle. Moreover, owing to the growing population, that accompany with more and more business migration from other cities into Seattle, with years, the need of building more houses for the younger generation of immigrants increases, accordingly. Since the space close to Seattle becomes limited, these newer houses were built away from Seattle radially towrad either Vancouver, Canada or Idaho, USA.           
       
       ![EDAQ1](./image/mod2_EDAQ1-p7.png)
       
-      Houses located **eastern of Seattle** are younger. 
+      Houses located at **eastern of Seattle** are younger. 
       
       - longitude
       ![EDAQ1](./image/mod2_EDAQ1-p8.png)
