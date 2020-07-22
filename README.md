@@ -149,8 +149,8 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 * initial model
 
-![model](./image/mod2_model_ini_qq.png)
-![model](./image/mod2_model_ini_homo.png)
+![model](./image/mod2_model_init_qq.png)
+![model](./image/mod2_model_init_homo.png)
 
 * developing model
 
