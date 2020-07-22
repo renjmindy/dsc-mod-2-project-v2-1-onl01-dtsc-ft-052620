@@ -40,6 +40,7 @@ Coordinates of Seattle WA: 47°36′35″N 122°19′59″W
 
 https://en.wikipedia.org/wiki/History_of_Seattle
 
+
 ![Motivation](./image/mod2_motivation_p.png)
 ![Motivation](./image/mod2_motivation_p.png)
 
