@@ -102,9 +102,11 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   
     * house age : age vs. price
     
+    owing to the growing population, that accompany with more and more business migration from other cities into Seattle, with years, the need of building more houses for the younger generation of immigrants increases, accordingly. Since the space close to Seattle becomes limited, these newer houses were built radially away from Seattle. Hence, they are closer to either Vancouver, Canada or Idaho, USA. The weather is thus colder and drier.            
+    
       - latitude
       
-      Houses located at **northern of Seattle** are younger. Newer houses are likely to attract higher condition score and better grade based on the King county grading scale, so that, relatively, they tend to be more pricey than older ones, which were built earlier and closer to Seattle. Moreover, owing to the growing population, that accompany with more and more business migration from other cities into Seattle, with years, the need of building more houses for the younger generation of immigrants increases, accordingly. Since the space close to Seattle becomes limited, these newer houses were built away from Seattle radially towrad either Vancouver, Canada or Idaho, USA.           
+      Houses located at **northern of Seattle** are younger. Newer houses are likely to attract higher condition score and better grade based on the King county grading scale, so that, relatively, they tend to be more pricey than older ones, which were built earlier and closer to Seattle. Despite that, some newer houses were sold at a much cheaper price than older ones, because of their smaller interior size.   
       
       ![EDAQ1](./image/mod2_EDAQ1-p7.png)
       
