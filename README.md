@@ -147,5 +147,10 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ## Model Quality/Approach
 
-* baseline model without dummies
-* baseline model with dummies
+* baseline model
+
+* final model (v1)
+
+![model](./image/mod2_model_final_v1_qq.png)
+
+![model](./image/mod2_model_final_v1_homo.png)
