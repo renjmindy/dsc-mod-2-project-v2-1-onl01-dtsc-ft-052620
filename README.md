@@ -157,3 +157,6 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 ![model](./image/mod2_model_final_v1_homo.png)
 
 * final model (v2)
+
+![model](./image/mod2_model_final_v2_qq.png)
+![model](./image/mod2_model_final_v2_homo.png)
