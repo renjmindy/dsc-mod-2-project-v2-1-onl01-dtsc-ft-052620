@@ -151,6 +151,9 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 * developing model
 
+![model](./image/mod2_model_dev_qq.png)
+![model](./image/mod2_model_dev_homo.png)
+
 * final model (v1)
 
 ![model](./image/mod2_model_final_v1_qq.png)
@@ -160,3 +163,8 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ![model](./image/mod2_model_final_v2_qq.png)
 ![model](./image/mod2_model_final_v2_homo.png)
+
+* final model (v3)
+
+![model](./image/mod2_model_final_v3_qq.png)
+![model](./image/mod2_model_final_v3_homo.png)
