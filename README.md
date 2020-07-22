@@ -106,7 +106,7 @@ https://en.wikipedia.org/wiki/History_of_Seattle
     
       - latitude
       
-      Houses located at **northern of Seattle** are younger. Newer houses are likely to attract higher condition score and better grade based on the King county grading scale, so that, relatively, they tend to be more pricey than older ones, which were built earlier and closer to Seattle. Despite that, some newer houses were sold at a much cheaper price than older ones, because of their smaller interior size.   
+      Houses located at **northern of Seattle** are younger. Newer houses are likely to attract higher condition score and better grade based on the King county grading scale, so that, relatively, they tend to be more pricey than older ones, which were built earlier and closer to Seattle. Despite that, most newer houses were sold at a much cheaper price than older ones, because these younger houses are likely located in the suburban area, i.e. closer to Vancouver or Idaho, and the daily commute might take residents substantial amount of time.   
       
       ![EDAQ1](./image/mod2_EDAQ1-p7.png)
       
@@ -115,11 +115,11 @@ https://en.wikipedia.org/wiki/History_of_Seattle
       - longitude
       ![EDAQ1](./image/mod2_EDAQ1-p8.png)
       
-    * house age : age vs. interior area
+    * house age : age vs. interior area 
     
-       Houses located 
+      Generally speaking, younger houses tend to be bigger, but they are still sold at lower prices, because they are located in suburban districts.
     
-      - latitude
+      - latitude   
       
       ![EDAQ1](./image/mod2_EDAQ1-p9.png)
       
