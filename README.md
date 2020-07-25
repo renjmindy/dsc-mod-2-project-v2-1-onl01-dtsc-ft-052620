@@ -3,7 +3,7 @@
 
 I would like to utilize this data to study house buyers' decision-making behaviors, e.g. customer purchase behavior modeling.
 
-![Motivation](./image/Zipcode_Seattle.png)
+![Motivation](./image/Seattle_Zipcode.png)
 
 **What're major factors that make impact on house buyers' behaviors?**
 
