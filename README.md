@@ -148,27 +148,70 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ## Model Quality/Approach
 
-* initial model
+* 
 
-![model](./image/mod2_model_init_qq.png)
-![model](./image/mod2_model_init_homo.png)
+('price_log', 2.3346),           ('sqft_above_log', 4.43337),   ('AvgAreaPerRm_log', 2.37103), ('llr2_log', 1.58674),         ('zipcode_yrbuilt_log', 2.21872),
+('floors_20', 2.43847),          ('floors_25', 1.04713),        ('floors_30', 1.27247),        ('floors_35', 1.00371),        ('waterfront_1', 1.49368),
+('view_1', 1.03778),             ('view_2', 1.09457),           ('view_3', 1.07601),           ('view_4', 1.55319),           ('hasbasement_1', 2.37835),
+('hasbiggerllratio_1', 2.11377), ('hasreno4sale_10', 1.04711),  ('hasreno4sale_20', 1.03756),  ('hasreno4sale_50', 1.00923),  ('hasreno4sale_60', 1.00697),
+('hasreno4sale_70', 1.00438),    ('yrmo_sold_201411', 1.08528), ('yrmo_sold_201412', 1.08196), ('yrmo_sold_201501', 1.05476), ('yrmo_sold_201503', 1.10304),
+('yrmo_sold_201504', 1.11949),   ('yrmo_sold_201505', 1.0369),  ('condition_2', 1.02501),      ('condition_4', 1.41291),      ('condition_5', 1.23033),
+('grade_3', 1.3182),             ('grade_4', 1.0235)
 
-* developing model
+*
 
-![model](./image/mod2_model_dev_qq.png)
-![model](./image/mod2_model_dev_homo.png)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              price_log   R-squared:                       0.589
+Model:                            OLS   Adj. R-squared:                  0.588
+Method:                 Least Squares   F-statistic:                     797.1
+Date:                Sat, 25 Jul 2020   Prob (F-statistic):               0.00
+Time:                        04:17:55   Log-Likelihood:                -16872.
+No. Observations:               17277   AIC:                         3.381e+04
+Df Residuals:                   17245   BIC:                         3.406e+04
+Df Model:                          31                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept              -0.3222      0.012    -26.943      0.000      -0.346      -0.299
+sqft_above_log          0.6270      0.009     68.578      0.000       0.609       0.645
+AvgAreaPerRm_log        0.1257      0.008     16.745      0.000       0.111       0.140
+llr2_log                0.2106      0.006     35.320      0.000       0.199       0.222
+zipcode_yrbuilt_log     0.1141      0.007     15.513      0.000       0.100       0.129
+floors_20               0.1592      0.015     10.825      0.000       0.130       0.188
+floors_25               0.2668      0.059      4.551      0.000       0.152       0.382
+floors_30               0.4645      0.033     13.900      0.000       0.399       0.530
+floors_35               0.6094      0.244      2.501      0.012       0.132       1.087
+waterfront_1            0.6323      0.072      8.758      0.000       0.491       0.774
+view_1                  0.3299      0.041      8.071      0.000       0.250       0.410
+view_2                  0.2906      0.025     11.850      0.000       0.243       0.339
+view_3                  0.4257      0.034     12.706      0.000       0.360       0.491
+view_4                  0.7104      0.049     14.427      0.000       0.614       0.807
+hasbasement_1           0.4985      0.012     41.050      0.000       0.475       0.522
+hasbiggerllratio_1     -0.1485      0.011    -14.143      0.000      -0.169      -0.128
+hasreno4sale_10         0.4315      0.050      8.658      0.000       0.334       0.529
+hasreno4sale_20         0.2978      0.056      5.323      0.000       0.188       0.407
+hasreno4sale_50        -0.2786      0.114     -2.440      0.015      -0.502      -0.055
+hasreno4sale_60        -0.3106      0.157     -1.985      0.047      -0.617      -0.004
+hasreno4sale_70        -0.4785      0.228     -2.100      0.036      -0.925      -0.032
+yrmo_sold_201411       -0.0369      0.020     -1.829      0.067      -0.076       0.003
+yrmo_sold_201412       -0.0467      0.020     -2.359      0.018      -0.086      -0.008
+yrmo_sold_201501       -0.0543      0.024     -2.275      0.023      -0.101      -0.008
+yrmo_sold_201503        0.0889      0.018      5.018      0.000       0.054       0.124
+yrmo_sold_201504        0.1408      0.017      8.527      0.000       0.108       0.173
+yrmo_sold_201505        0.1355      0.029      4.628      0.000       0.078       0.193
+condition_2            -0.3475      0.056     -6.216      0.000      -0.457      -0.238
+condition_4             0.0687      0.012      5.597      0.000       0.045       0.093
+condition_5             0.2781      0.020     14.200      0.000       0.240       0.316
+grade_3                 0.0575      0.013      4.433      0.000       0.032       0.083
+grade_4                 0.2264      0.076      2.993      0.003       0.078       0.375
+==============================================================================
+Omnibus:                       18.421   Durbin-Watson:                   2.003
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               18.443
+Skew:                          -0.080   Prob(JB):                     9.89e-05
+Kurtosis:                       3.014   Cond. No.                         74.6
+==============================================================================
 
-* final model (v1)
-
-![model](./image/mod2_model_final_v1_qq.png)
-![model](./image/mod2_model_final_v1_homo.png)
-
-* final model (v2)
-
-![model](./image/mod2_model_final_v2_qq.png)
-![model](./image/mod2_model_final_v2_homo.png)
-
-* final model (v3)
-
-![model](./image/mod2_model_final_v3_qq.png)
-![model](./image/mod2_model_final_v3_homo.png)
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
