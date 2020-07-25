@@ -150,40 +150,7 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 * 
 
-('price_log', 2.3346),           ('sqft_above_log', 4.43337),   ('AvgAreaPerRm_log', 2.37103), ('llr2_log', 1.58674),         ('zipcode_yrbuilt_log', 2.21872),
 
-('floors_20', 2.43847),          ('floors_25', 1.04713),        ('floors_30', 1.27247),        ('floors_35', 1.00371),        ('waterfront_1', 1.49368),
-
-('view_1', 1.03778),             ('view_2', 1.09457),           ('view_3', 1.07601),           ('view_4', 1.55319),           ('hasbasement_1', 2.37835),
-
-('hasbiggerllratio_1', 2.11377), ('hasreno4sale_10', 1.04711),  ('hasreno4sale_20', 1.03756),  ('hasreno4sale_50', 1.00923),  ('hasreno4sale_60', 1.00697),
-
-('hasreno4sale_70', 1.00438),    ('yrmo_sold_201411', 1.08528), ('yrmo_sold_201412', 1.08196), ('yrmo_sold_201501', 1.05476), ('yrmo_sold_201503', 1.10304),
-
-('yrmo_sold_201504', 1.11949),   ('yrmo_sold_201505', 1.0369),  ('condition_2', 1.02501),      ('condition_4', 1.41291),      ('condition_5', 1.23033),
-
-('grade_3', 1.3182),             ('grade_4', 1.0235)
 
 *
 
-OLS Regression Results                            
-==============================================================================
-
-Dep. Variable:              price_log   R-squared:                       0.589
-
-Model:                            OLS   Adj. R-squared:                  0.588
-
-Method:                 Least Squares   F-statistic:                     797.1
-
-Date:                Sat, 25 Jul 2020   Prob (F-statistic):               0.00
-
-Time:                        04:17:55   Log-Likelihood:                -16872.
-
-No. Observations:               17277   AIC:                         3.381e+04
-
-Df Residuals:                   17245   BIC:                         3.406e+04
-
-Df Model:                          31           
-
-Covariance Type:            nonrobust                                         
-=======================================================================================
