@@ -44,6 +44,18 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 ![Motivation](./image/mod2_motivation_p.png)
 ![Motivation](./image/mod2_motivation_p.png)
 
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+## Model Quality/Approach
+
+* 
+
+![EDAQ1](./image/mod2_model_final_submit_qq.png)
+![EDAQ1](./image/mod2_model_final_submit_homo.png)
+
+*
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 # Visualizations & EDA
@@ -145,12 +157,4 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 ### Future Work:
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-
-## Model Quality/Approach
-
-* 
-
-
-
-*
 
