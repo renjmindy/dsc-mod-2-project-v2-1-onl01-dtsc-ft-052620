@@ -49,10 +49,8 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 * 
 
-
 ![EDAQ1](./image/mod2_model_final_submit_qq.png)
 ![EDAQ1](./image/mod2_model_final_submit_homo.png)
-
 
 *
 
