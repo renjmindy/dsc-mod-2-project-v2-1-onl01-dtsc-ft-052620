@@ -49,8 +49,10 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 * 
 
+
 ![EDAQ1](./image/mod2_model_final_submit_qq.png)
 ![EDAQ1](./image/mod2_model_final_submit_homo.png)
+
 
 *
 
@@ -60,10 +62,12 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ## Question: What are influential factors on house price?
 
+
 ![EDA](./image/mod2_EDA_final_submit_p1.png)
 ![EDA](./image/mod2_EDA_final_submit_p2.png)
 ![EDA](./image/mod2_EDA_final_submit_p3.png)
 ![EDA](./image/mod2_EDA_final_submit_p4.png)
+
 
 ## Question 1: What are influential factors on house tours? 
   - season
