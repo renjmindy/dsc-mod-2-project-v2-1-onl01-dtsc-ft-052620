@@ -57,19 +57,25 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
                             OLS Regression Results                            
 ======================================================================================
-
 Dep. Variable:              price_log   |   R-squared:                       0.711
+
 Model:                            OLS   |   Adj. R-squared:                  0.711
+
 Method:                 Least Squares   |   F-statistic:                     1515.
+
 Date:                Sun, 26 Jul 2020   |   Prob (F-statistic):               0.00
+
 Time:                        08:33:14   |   Log-Likelihood:                -13829.
+
 No. Observations:               17277   |   AIC:                         2.772e+04
+
 Df Residuals:                   17248   |   BIC:                         2.794e+04
+
 Df Model:                          28   |                                      
+
 Covariance Type:            nonrobust   |                                     
 ======================================================================================
                    |   coef   |  std err  |   t      |   P>|t|   |  [0.025   |  0.975]             
---------------------------------------------------------------------------------------
 Intercept          |  -1.2750 |    0.142  |  -8.976  |   0.000   |  -1.553   |  -0.997
 sqft_above_log     |   0.5605 |    0.008  |  73.540  |   0.000   |   0.546   |   0.575
 AvgAreaPerRm_log   |   0.0930 |    0.006  |  14.733  |   0.000   |   0.081   |   0.105
