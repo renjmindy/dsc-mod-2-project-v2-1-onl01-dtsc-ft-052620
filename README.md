@@ -49,9 +49,14 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 * Multiple Linear Regression Model:
 
+  - before p-Value selection:
+
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
-![Model](./image/mod2_model_final_submit_Sel_coefs.png)
+
+  - after p-Value selection:
+
 ![Model](./image/mod2_model_final_submit_All_vifs.png)
+![Model](./image/mod2_model_final_submit_Sel_coefs.png)
 
 * Normality Check: Q-Q Plots & homoscedasticity
 
