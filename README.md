@@ -57,7 +57,21 @@ To check for the normality assumption, you can obtain error terms (residuals) fr
 ![Model](./image/mod2_model_final_submit_qqhist.png)
 ![Model](./image/mod2_model_final_submit_Top15_coefs.png)
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
-![Model](./image/modelsummary.txt)
+
+ OLS Regression Results                            
+==============================================================================
+Dep. Variable:              price_log   R-squared:                       0.711
+Model:                            OLS   Adj. R-squared:                  0.711
+Method:                 Least Squares   F-statistic:                     1515.
+Date:                Sat, 25 Jul 2020   Prob (F-statistic):               0.00
+Time:                        22:38:22   Log-Likelihood:                -13829.
+No. Observations:               17277   AIC:                         2.772e+04
+Df Residuals:                   17248   BIC:                         2.794e+04
+Df Model:                          28                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
