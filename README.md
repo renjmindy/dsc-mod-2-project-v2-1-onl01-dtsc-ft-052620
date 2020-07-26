@@ -5,6 +5,7 @@ I would like to utilize this data to study house buyers' decision-making behavio
 
 ![Motivation](./image/Seattle_Zipcode.png)
 
+
 **What're major factors that make impact on house buyers' behaviors?**
 
 * house **location**
@@ -39,7 +40,6 @@ I would like to utilize this data to study house buyers' decision-making behavio
 https://en.wikipedia.org/wiki/Seattle
 
 https://en.wikipedia.org/wiki/History_of_Seattle
-
 
 ![Motivation](./image/mod2_motivation_final_submit.png)
 
