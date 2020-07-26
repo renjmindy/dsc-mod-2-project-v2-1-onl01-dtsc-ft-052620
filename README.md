@@ -47,7 +47,8 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ## Model Quality/Approach
 
-* 
+* Q-Q Plots & 
+To check for the normality assumption, you can obtain error terms (residuals) from the model and draw Q-Q Plot against a standard normal distribution as shown below. While the residuals do not seem to match up perfectly with the red line, there seem to be no super clear deviations from the red line. So you can assume that you're OK for the normality assumption.
 
 ![EDAQ1](./image/mod2_model_final_submit_qq.png)
 ![EDAQ1](./image/mod2_model_final_submit_homo.png)
