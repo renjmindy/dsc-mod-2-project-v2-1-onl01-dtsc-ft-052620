@@ -63,7 +63,6 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ![Model](./image/modelSummary_final_submit_1.png)
 ![Model](./image/modelSummary_final_submit_2.png)
-
 ![Model](./image/mod2_model_final_submit_All_vifs.png)
 ![Model](./image/mod2_model_final_submit_Sel_coefs.png)
 
