@@ -49,6 +49,8 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 * Multiple Linear Regression Model:
 
+sqft_above_log         0.5605      0.008     73.540      0.000       0.546       0.575
+
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
 ![Model](./image/mod2_model_final_submit_All_vifs.png)
 
