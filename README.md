@@ -57,6 +57,7 @@ To check for the normality assumption, you can obtain error terms (residuals) fr
 ![Model](./image/mod2_model_final_submit_qqhist.png)
 ![Model](./image/mod2_model_final_submit_Top15_coefs.png)
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
+![Model](./image/mod2_model_final_submit_All_vifs.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
