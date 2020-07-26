@@ -51,7 +51,6 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 To check for the normality assumption, you can obtain error terms (residuals) from the model and draw Q-Q plot against a standard normal distribution as shown below. While the residuals do not seem to match up perfectly with the red line, there seem to be no super clear deviations from the red line. So you can assume that you're OK for the normality assumption. Moreover, homoscedasticity indicates that a dependent variable's variability is equal across values of the independent variable. A scatter plot is good way to check whether the data are homoscedastic (meaning the residuals are equal across the regression line).
 
-
 ![EDAQ1](./image/mod2_model_final_submit_qq.png)
 ![EDAQ1](./image/mod2_model_final_submit_homo.png)
 ![EDAQ1](./image/mod2_model_final_submit_qqhist.png)
@@ -63,12 +62,10 @@ To check for the normality assumption, you can obtain error terms (residuals) fr
 
 ## Question: What are influential factors on house price?
 
-
 ![EDA](./image/mod2_EDA_final_submit_p1.png)
 ![EDA](./image/mod2_EDA_final_submit_p2.png)
 ![EDA](./image/mod2_EDA_final_submit_p3.png)
 ![EDA](./image/mod2_EDA_final_submit_p4.png)
-
 
 ## Question 1: What are influential factors on house tours? 
   - season
