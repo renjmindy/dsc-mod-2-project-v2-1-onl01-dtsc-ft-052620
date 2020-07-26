@@ -59,6 +59,10 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
 
+  - alternative model (before p-Value selection):
+
+![Model](./image/mod2_model_final_submit_alt_All_coefs.png)
+
   - selective model (after p-Value selection):
 
 ![Model](./image/modelSummary_final_submit_1.png)
@@ -68,6 +72,8 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
   - alternative model (after p-Value selection):
   
+![Model](./image/modelSummary_final_submit_alt_1.png)
+![Model](./image/modelSummary_final_submit_alt_2.png)
 ![Model](./image/mod2_model_final_submit_alt_vifs.png)
 ![Model](./image/mod2_model_final_submit_alt_coefs.png)
 
