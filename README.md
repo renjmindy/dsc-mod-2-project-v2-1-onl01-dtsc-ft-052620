@@ -41,7 +41,13 @@ https://en.wikipedia.org/wiki/Seattle
 
 https://en.wikipedia.org/wiki/History_of_Seattle
 
+- selective model (after p-Value selection):
+
 ![Motivation](./image/mod2_motivation_final_submit.png)
+
+- alternative model (after p-Value selection):
+
+![Motivation](./image/mod2_motivation_final_submit_alt.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -54,6 +60,108 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
 
   - selective model (after p-Value selection):
+  
+OLS Regression Results                             
+
+============================================================================== 
+
+Dep. Variable:              price_log   R-squared:                       0.711 
+
+Model:                            OLS   Adj. R-squared:                  0.711 
+
+Method:                 Least Squares   F-statistic:                     1515. 
+
+Date:                Sat, 25 Jul 2020   Prob (F-statistic):               0.00 
+
+Time:                        22:38:22   Log-Likelihood:                -13829. 
+
+No. Observations:               17277   AIC:                         2.772e+04 
+
+Df Residuals:                   17248   BIC:                         2.794e+04 
+
+Df Model:                          28                                          
+
+Covariance Type:            nonrobust                                          
+
+====================================================================================== 
+                         
+                         coef    std err       t         P>|t|      [0.025     0.975] 
+------------------------------------------------------------------------------------- 
+
+Intercept             -1.2750      0.142     -8.976      0.000      -1.553      -0.997 
+
+sqft_above_log         0.5605      0.008     73.540      0.000       0.546       0.575 
+
+AvgAreaPerRm_log       0.0930      0.006     14.733      0.000       0.081       0.105 
+
+zipcode_lat_log       -0.4068      0.004    -95.601      0.000      -0.415      -0.399 
+
+zipcode_long_log      -0.0476      0.004    -10.654      0.000      -0.056      -0.039 
+
+yrgrade_built_log     -0.1129      0.006    -19.204      0.000      -0.124      -0.101 
+
+floors_20              0.1746      0.012     14.240      0.000       0.151       0.199 
+
+floors_25              0.3546      0.049      7.229      0.000       0.258       0.451 
+
+floors_30              0.3863      0.028     14.047      0.000       0.332       0.440 
+
+floors_35              0.5934      0.204      2.906      0.004       0.193       0.994 
+
+waterfront_1           0.7659      0.061     12.621      0.000       0.647       0.885 
+
+view_1                 0.4533      0.034     13.233      0.000       0.386       0.520 
+
+view_2                 0.3881      0.021     18.864      0.000       0.348       0.428 
+
+view_3                 0.5988      0.028     21.284      0.000       0.544       0.654 
+
+view_4                 0.8115      0.041     19.667      0.000       0.731       0.892 
+
+hasbasement_1          0.4563      0.010     44.885      0.000       0.436       0.476 
+
+hasbiggerllratio_1    -0.1010      0.009    -11.483      0.000      -0.118      -0.084 
+
+hasreno4sale_0         0.3210      0.069      4.684      0.000       0.187       0.455 
+
+hasreno4sale_10        0.7924      0.079      9.969      0.000       0.637       0.948 
+
+hasreno4sale_20        0.6325      0.082      7.687      0.000       0.471       0.794 
+
+hasreno4sale_30        0.3250      0.085      3.832      0.000       0.159       0.491 
+
+hasreno4sale_40        0.2330      0.102      2.292      0.022       0.034       0.432 
+
+yrmo_sold_201503       0.1060      0.015      7.248      0.000       0.077       0.135 
+
+yrmo_sold_201504       0.1401      0.014     10.292      0.000       0.113       0.167 
+
+yrmo_sold_201505       0.1640      0.024      6.715      0.000       0.116       0.212 
+
+condition_2            0.3518      0.132      2.662      0.008       0.093       0.611 
+
+condition_3            0.5998      0.124      4.832      0.000       0.357       0.843 
+
+condition_4            0.7003      0.124      5.641      0.000       0.457       0.944 
+
+condition_5            0.8947      0.125      7.173      0.000       0.650       1.139 
+
+============================================================================== 
+
+Omnibus:                      187.258   Durbin-Watson:                   2.004 
+
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              304.549 
+
+Skew:                           0.076   Prob(JB):                     7.38e-67 
+
+Kurtosis:                       3.633   Cond. No.                         121. 
+
+============================================================================== 
+
+Warnings: 
+
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified 
+
 
 ![Model](./image/mod2_model_final_submit_All_vifs.png)
 ![Model](./image/mod2_model_final_submit_Sel_coefs.png)
