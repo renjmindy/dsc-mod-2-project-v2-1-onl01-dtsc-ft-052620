@@ -49,30 +49,8 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 * Multiple Linear Regression Model:
 
-sqft_above_log         0.5605      0.008     73.540      0.000       0.546       0.575
-
-AvgAreaPerRm_log       0.0930      0.006     14.733      0.000       0.081       0.105
-
-zipcode_lat_log       -0.4068      0.004    -95.601      0.000      -0.415      -0.399
-
-zipcode_long_log      -0.0476      0.004    -10.654      0.000      -0.056      -0.039
-
-yrgrade_built_log     -0.1129      0.006    -19.204      0.000      -0.124      -0.101
-
-floors_20              0.1746      0.012     14.240      0.000       0.151       0.199
-
-floors_25              0.3546      0.049      7.229      0.000       0.258       0.451
-
-floors_30              0.3863      0.028     14.047      0.000       0.332       0.440
-
-floors_35              0.5934      0.204      2.906      0.004       0.193       0.994
-
-waterfront_1           0.7659      0.061     12.621      0.000       0.647       0.885
-
-view_1                 0.4533      0.034     13.233      0.000       0.386       0.520
-
-
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
+![Model](./image/mod2_model_final_submit_Sel_coefs.png)
 ![Model](./image/mod2_model_final_submit_All_vifs.png)
 
 * Normality Check: Q-Q Plots & homoscedasticity
