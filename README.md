@@ -54,8 +54,7 @@ To check for the normality assumption, you can obtain error terms (residuals) fr
 ![EDAQ1](./image/mod2_model_final_submit_qq.png)
 ![EDAQ1](./image/mod2_model_final_submit_homo.png)
 ![EDAQ1](./image/mod2_model_final_submit_qqhist.png)
-
-![EDAQ1](./image/)
+![EDAQ1](./image/mod2_model_final_submit_Top15_coefs.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
