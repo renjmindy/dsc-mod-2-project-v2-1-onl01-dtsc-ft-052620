@@ -41,13 +41,13 @@ https://en.wikipedia.org/wiki/Seattle
 
 https://en.wikipedia.org/wiki/History_of_Seattle
 
-- selective model (after p-Value selection):
-
-![Motivation](./image/mod2_motivation_final_submit.png)
-
-- alternative model (after p-Value selection):
+- **selective** model (after p-Value selection):
 
 ![Motivation](./image/mod2_motivation_final_submit_alt.png)
+
+- **alternative** model (after p-Value selection):
+
+![Motivation](./image/mod2_motivation_final_submit.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -55,45 +55,45 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 * Multiple Linear Regression Models:
 
-  - selective model (before p-Value selection):
-
-![Model](./image/mod2_model_final_submit_All_coefs.png)
-
-  - alternative model (before p-Value selection):
+  - **selective** model (before p-Value selection):
 
 ![Model](./image/mod2_model_final_submit_alt_All_coefs.png)
 
-  - selective model (after p-Value selection):
+  - **alternative** model (before p-Value selection):
 
-![Model](./image/modelSummary_final_submit_1.png)
-![Model](./image/modelSummary_final_submit_2.png)
-![Model](./image/mod2_model_final_submit_All_vifs.png)
-![Model](./image/mod2_model_final_submit_Sel_coefs.png)
+![Model](./image/mod2_model_final_submit_All_coefs.png)
 
-  - alternative model (after p-Value selection):
-  
+  - **selective** model (after p-Value selection):
+
 ![Model](./image/modelSummary_final_submit_alt_1.png)
 ![Model](./image/modelSummary_final_submit_alt_2.png)
 ![Model](./image/mod2_model_final_submit_alt_vifs.png)
 ![Model](./image/mod2_model_final_submit_alt_coefs.png)
 
+  - **alternative** model (after p-Value selection):
+  
+![Model](./image/modelSummary_final_submit_1.png)
+![Model](./image/modelSummary_final_submit_2.png)
+![Model](./image/mod2_model_final_submit_All_vifs.png)
+![Model](./image/mod2_model_final_submit_Sel_coefs.png)
+
 * Normality Check: Q-Q Plots & homoscedasticity
 
 To check for the normality assumption, you can obtain error terms (residuals) from the model and draw Q-Q plot against a standard normal distribution as shown below. While the residuals do not seem to match up perfectly with the red line, there seem to be no super clear deviations from the red line. So you can assume that you're OK for the normality assumption. Moreover, homoscedasticity indicates that a dependent variable's variability is equal across values of the independent variable. A scatter plot is good way to check whether the data are homoscedastic (meaning the residuals are equal across the regression line).
 
-  - selective model (after p-Value selection):
-
-![Model](./image/mod2_model_final_submit_qq.png)
-![Model](./image/mod2_model_final_submit_homo.png)
-![Model](./image/mod2_model_final_submit_qqhist.png)
-![Model](./image/mod2_model_final_submit_Top15_coefs.png)
-
-  - alternative model (after p-Value selection):
+  - **selective** model (after p-Value selection):
 
 ![Model](./image/mod2_model_final_submit_alt_qq.png)
 ![Model](./image/mod2_model_final_submit_alt_homo.png)
 ![Model](./image/mod2_model_final_submit_alt_qqhist.png)
 ![Model](./image/mod2_model_final_submit_alt_Top15_coefs.png)
+
+  - **alternative** model (after p-Value selection):
+
+![Model](./image/mod2_model_final_submit_qq.png)
+![Model](./image/mod2_model_final_submit_homo.png)
+![Model](./image/mod2_model_final_submit_qqhist.png)
+![Model](./image/mod2_model_final_submit_Top15_coefs.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
