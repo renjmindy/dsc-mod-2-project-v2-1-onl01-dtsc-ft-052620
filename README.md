@@ -47,7 +47,7 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   * house grading system in King county accounts for each house's age
   * time length after house renovation to sold year determines house condition 
   * house tour correlates to house amenities, design and maintenance, e.g. pool, basement, floors and renovation (condition)
-  * house selling price affected by the latitude (north to Vancouver and south to Portland, OR) ; instead, house's longitude has no effect on its value
+  * house selling price affected by its latitude (north to Vancouver and south to Portland, OR) ; instead, its longitude has no effect 
   * winter holiday season attracts more tours and greater discount on houses located further away from Seattle city  
   * lot size weights more on selling price than house interior area
 
