@@ -21,11 +21,11 @@ I would like to utilize this data to study house buyers' decision-making behavio
    * when it was built
    * has it ever been renovated?
    * with or without basement?
+   * grade
 
 * house **size**
    * family size
    * above average compared to the neighborhood?
-   * house tour evaluation: reliability of votes, e.g. are voters all buyers? or they are simply house tourists?
 
 * house **price**
    * buyer's economic capability
@@ -156,10 +156,15 @@ To check for the normality assumption, you can obtain error terms (residuals) fr
   - **selective** model (after p-Value selection):
   
 Top15 influential features:
+
     - house tour
+    
     - house amenities
+    
     - house interior area 
+    
     - time length from renovation to sold year that also correlates with condition to-date
+    
     - house multi-layer design, basement (down to ground level) at bottom and floors (up to roof) on top
 
 ![Model](./image/mod2_model_final_submit_alt_qq.png)
@@ -263,6 +268,7 @@ Top15 influential features: same aas above
       ![EDAQ1](./image/mod2_EDAQ1-p10.png)
       
 ### Analysis:
+
 
 ### Recommendations:
 
