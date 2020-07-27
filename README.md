@@ -192,14 +192,14 @@ Top15 influential features: same aas above
 ![EDA](./image/mod2_EDA_final_submit_p3.png)
 ![EDA](./image/mod2_EDA_final_submit_p4.png)
 
-## Question 1: What are influential factors on house tours? 
+## Question 1: What are influential factors on frequencies of house tour? Season matters!
   - season
-  - grade (evaluation)
-  - condition
-  - location
-  - house age
-  - house amenities (basement, lot)
-  - maintenance (renovation)
+  - grade (evaluation, house age/built year)
+  - condition (maintenance/renovation)
+  - location (closer or further away from Seattle city, Vancouver CA or Portland OR)
+  - house age (built year)
+  - house amenities (waterfront, lot)
+  - design (floor plan, with or without basement)
   - price
   
     * grade : interior area vs. price
@@ -268,21 +268,33 @@ Top15 influential features: same aas above
       ![EDAQ1](./image/mod2_EDAQ1-p10.png)
       
 ### Analysis:
-
+Outliers were removed prior to analysis. Generally speaking, we have been aware of the fact that the housing price is primarily influenced by its interior area. Therefore, we categorized data into various groups such as sold seasons and frequency of house tour. We would like to see how significantly the house selling price varies with interior area under different season and frequency tours.    
 
 ### Recommendations:
+Different seasons make impact on house selling price and the willingness of joining house tours as well. We also noticed the house condition, location and age (built-year/grading) also affect house buyers to participate in house tours. Three recommendations are listed as follows:
+
+  - house maintenance (condition score)
+  - house location
+  - house age (built-year related grade scale)
+  - house amenities (pool)
 
 ### Future Work:
+To quantify our observations, a list of future work are needed. 
+
+  - relate condition score to time lenth spanned from renovation to house sold year (house maintenance)
+  - relate zipcode to city name (house location)
+  - relate house age to grading scale
   
-## Question 2: What are influential factors on house buyers' decision-making behaviors?
-  - view
-  - purchase, i.e. house sold months (season)
-   
-### Analysis:
+## Question 2: What are influential factors on house buyers' decision-making behaviors? House itself! 
+ 
+### Analysis: same as above
 
 ### Recommendations:
 
-### Future Work:
+  - House design (floor plan)
+  - House condition (renovation/maintenance)
+
+### Future Work: same as above
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
