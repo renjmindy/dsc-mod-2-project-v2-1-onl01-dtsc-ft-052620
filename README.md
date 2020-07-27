@@ -89,6 +89,8 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ![Model](./image/mod2_model_final_submit_alt_All_coefs.png)
 
+* Multiple Linear Regression Models:
+
   - **alternative** model (before p-Value selection):
   
   final features:
