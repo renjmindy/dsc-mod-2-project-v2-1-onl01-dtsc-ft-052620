@@ -50,6 +50,8 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   * house selling price affected by its latitude (north to Vancouver and south to Portland, OR) ; instead, its longitude has no effect 
   * winter holiday season attracts more tours and greater discount on houses located further away from Seattle city  
   * lot size weights more on selling price than house interior area
+  * house price goes down from middle of summer through fall (end of fiscal year) till January of following year
+  * house price gradually ramps up from begining of spring through begining of summer
 
 ![Motivation](./image/mod2_motivation_final_submit_alt.png)
 
