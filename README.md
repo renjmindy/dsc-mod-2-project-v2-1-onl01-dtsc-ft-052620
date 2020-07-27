@@ -186,7 +186,7 @@ To check for the normality assumption, you can obtain error terms (residuals) fr
   
     * condition : interior area vs. price
     
-    Over *Thanksgiving and Xmas* holiday seasons, **well-maintained** houses attract more guests, visitors and buyers for tours.
+    Over *Thanksgiving and Xmas* holiday seasons, **well-maintained** and/or **renovated** houses attract more guests, visitors and buyers for tours.
     
     ![EDAQ1](./image/mod2_EDAQ1-p2.png)
   
@@ -204,7 +204,7 @@ To check for the normality assumption, you can obtain error terms (residuals) fr
   
     * renovation : interior area vs. price
     
-    Renovated houses are **older** than those without renovation, so that they are **not** as attractive as new ones. Moreover, owing to maintenance expense, renovated houses are a bit more pricey than those without additional cost.  
+    Surprizingly, renovated houses are likely to be **older** than those without renovation, so that they are **not** as attractive as new ones. Moreover, owing to housing maintenance expense, renovated houses are a bit more pricey than those without additional cost.  
     
     ![EDAQ1](./image/mod2_EDAQ1-p5.png)
     
@@ -222,18 +222,18 @@ To check for the normality assumption, you can obtain error terms (residuals) fr
     
       - latitude
       
-      Houses located at **northern of Seattle** are younger. Newer houses are likely to attract higher condition score and better grade based on the King county grading scale, so that, relatively, they tend to be more pricey than older ones, which were built earlier and closer to Seattle. Despite that, most newer houses were sold at a much cheaper price than older ones, because these younger houses are likely located in the suburban area, i.e. closer to Vancouver or Idaho, and the daily commute might take residents substantial amount of time.   
+      Houses in suburban areas around **northern of Seattle** are likely younger than those inside Seattle city. Newer houses are likely to attract higher condition score and better grade based on the King county grading scale, so that, relatively, they tend to be more pricey than older ones, which were built earlier and closer to Seattle. Despite that, most newer houses were sold at a much cheaper price than older ones, because these younger houses are likely located in the suburban area, i.e. closer to Vancouver or Idaho, and the daily commute might take residents substantial amount of time.   
       
       ![EDAQ1](./image/mod2_EDAQ1-p7.png)
       
-      Houses located at **eastern of Seattle** are younger. 
+      Likewise, houses located at **eastern of Seattle** tend to be younger. 
       
       - longitude
       ![EDAQ1](./image/mod2_EDAQ1-p8.png)
       
     * house age : age vs. interior area 
     
-      Generally speaking, younger houses tend to be bigger, but they are still sold at lower prices, because they are located in suburban districts.
+      Despite the bigger living area of younger houses than older ones' in the same area, these houses are still affordable due to where they were built. Taking the traffic time spent on the daily commute into consideration, houses in suburban area might be able to be sold at lower price than those. On the other hand, houses that were were constructed further and further away from Seattle city were likely smaller among same-age houses distributed across various areas.         
     
       - latitude   
       
