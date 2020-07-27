@@ -141,6 +141,7 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
 
+
   - **alternative** model (after p-Value selection):
   
 ![Model](./image/modelSummary_final_submit_1.png)
@@ -171,6 +172,7 @@ Top15 influential features:
 ![Model](./image/mod2_model_final_submit_alt_homo.png)
 ![Model](./image/mod2_model_final_submit_alt_qqhist.png)
 ![Model](./image/mod2_model_final_submit_alt_Top15_coefs.png)
+
 
   - **alternative** model (after p-Value selection):
   
