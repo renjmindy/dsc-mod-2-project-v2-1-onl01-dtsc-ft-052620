@@ -43,6 +43,14 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 - **selective** model (after p-Value selection):
 
+  * housing price is highly sensitive to the variation of house interior area
+  * house grading system in King county accounts for each house's age
+  * time length after house renovation to sold year determines house condition 
+  * house tour correlates to house amenities, design and maintenance, e.g. pool, basement, floors and renovation (condition)
+  * house selling price affected by the latitude (north to Vancouver and south to Portland, OR) ; instead, house's longitude has no effect on its value
+  * winter holiday season attracts more tours and greater discount on houses located further away from Seattle city  
+  * lot size weights more on selling price than house interior area
+
 ![Motivation](./image/mod2_motivation_final_submit_alt.png)
 
 - **alternative** model (after p-Value selection):
