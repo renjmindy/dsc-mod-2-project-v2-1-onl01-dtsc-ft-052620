@@ -89,6 +89,14 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ![Model](./image/mod2_model_final_submit_alt_All_coefs.png)
 
+   - **selective** model (after p-Value selection):
+
+![Model](./image/modelSummary_final_submit_alt_1.png)
+![Model](./image/modelSummary_final_submit_alt_2.png)
+
+![Model](./image/mod2_model_final_submit_alt_vifs.png)
+![Model](./image/mod2_model_final_submit_alt_coefs.png)
+
 * Multiple Linear Regression Models:
 
   - **alternative** model (before p-Value selection):
@@ -122,14 +130,6 @@ https://en.wikipedia.org/wiki/History_of_Seattle
     13. 'yrmo_sold': house sold year and month combined 
 
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
-
-  - **selective** model (after p-Value selection):
-
-![Model](./image/modelSummary_final_submit_alt_1.png)
-![Model](./image/modelSummary_final_submit_alt_2.png)
-
-![Model](./image/mod2_model_final_submit_alt_vifs.png)
-![Model](./image/mod2_model_final_submit_alt_coefs.png)
 
   - **alternative** model (after p-Value selection):
   
