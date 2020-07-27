@@ -6,7 +6,7 @@ I would like to utilize this data to study house buyers' decision-making behavio
 ![Motivation](./image/Seattle_Zipcode.png)
 
 
-**What're major factors that make impact on house buyers' behaviors?**
+**What're major factors that may make impact on house buyers' behaviors?**
 
 * house **location**
    * weather factor
@@ -56,10 +56,68 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 * Multiple Linear Regression Models:
 
   - **selective** model (before p-Value selection):
+  
+  final features:
+
+    1. **'sqft_above_log'** (Top15): house interior area
+
+    2. 'AvgAreaPerRm_log': room size (bathrooms and bedrooms both included)
+
+    3. **'lat_seattle_diff_log'** (Top15): latitudinal coordinate difference from Seattle city's (47°36′35″N) 
+
+    4. 'long_seattle_diff_log': longitudinal coordinate difference from Seattle city's (122°19′59″W)
+
+    5. 'yrgrade_built_log': linear combination of house built year and its grade  
+
+    6. **'floors'** (Top15): house design (multiple levels above house basement)
+
+    7. **'waterfront'** (Top15): pool outside house 
+         
+    8. **'view'** (Top15): house tour 
+
+    9. **'condition'** (Top15): house maintenance and/or renovation construction 
+
+    10. **'hasbasement'** (Top15): with or without basement (ground level)
+
+    11. 'hasbiggerllratio': ratio of liviing area to lot's compared to that obtained by averaging over 15 nearest neighbors'
+
+    12. 'hasreno4sale': difference between house sold year and the year that house renovation happened
+
+    13. 'hasinSeattle': check whether house located in Seattle city or not, depending on house's zipcode 
+
+    14. 'yrmo_sold': house sold year and month combined
 
 ![Model](./image/mod2_model_final_submit_alt_All_coefs.png)
 
   - **alternative** model (before p-Value selection):
+  
+  final features:
+  
+   1. **'sqft_above_log'** (Top15): house interior area
+
+   2. 'AvgAreaPerRm_log': room size (bathrooms and bedrooms both included)
+
+   3. **'zipcode_lat_log'** (Top15): house zipcode divided by latitudinal coordinate
+
+   4. 'zipcode_long_log': house zipcode divided by longitudinal coordinate 
+
+   5. 'yrgrade_built_log': linear combination of house built year and its grade  
+
+   6. **'floors'** (Top15): house design (multiple levels above house basement)
+
+   7. **'waterfront'** (Top15): pool outside house 
+         
+   8. **'view'** (Top15): house tour 
+
+   9. **'condition'** (Top15): house maintenance and/or renovation construction 
+
+   10. **'hasbasement'** (Top15): with or without basement (ground level)
+
+   11. 'hasbiggerllratio': ratio of liviing area to lot's compared to that obtained by averaging over 15 nearest neighbors'
+
+   12. 'hasreno4sale': difference between house sold year and the year that house renovation happened
+
+   13. 'yrmo_sold': house sold year and month combined 
 
 ![Model](./image/mod2_model_final_submit_All_coefs.png)
 
