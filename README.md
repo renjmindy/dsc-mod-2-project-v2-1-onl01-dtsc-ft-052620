@@ -103,7 +103,6 @@ https://en.wikipedia.org/wiki/History_of_Seattle
 
 ![Model](./image/modelSummary_final_submit_alt_1.png)
 ![Model](./image/modelSummary_final_submit_alt_2.png)
-
 ![Model](./image/mod2_model_final_submit_alt_vifs.png)
 ![Model](./image/mod2_model_final_submit_alt_coefs.png)
 
@@ -145,7 +144,6 @@ https://en.wikipedia.org/wiki/History_of_Seattle
   
 ![Model](./image/modelSummary_final_submit_1.png)
 ![Model](./image/modelSummary_final_submit_2.png)
-
 ![Model](./image/mod2_model_final_submit_All_vifs.png)
 ![Model](./image/mod2_model_final_submit_Sel_coefs.png)
 
@@ -172,6 +170,7 @@ Top15 influential features:
 ![Model](./image/mod2_model_final_submit_alt_qqhist.png)
 ![Model](./image/mod2_model_final_submit_alt_Top15_coefs.png)
 
+
   - **alternative** model (after p-Value selection):
   
 Top15 influential features: same aas above
@@ -180,6 +179,7 @@ Top15 influential features: same aas above
 ![Model](./image/mod2_model_final_submit_homo.png)
 ![Model](./image/mod2_model_final_submit_qqhist.png)
 ![Model](./image/mod2_model_final_submit_Top15_coefs.png)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -268,7 +268,7 @@ Top15 influential features: same aas above
       ![EDAQ1](./image/mod2_EDAQ1-p10.png)
       
 ### Analysis:
-Outliers were removed prior to analysis. Generally speaking, we have been aware of the fact that the housing price is primarily influenced by its interior area. Therefore, we categorized data into various groups such as sold seasons and frequency of house tour. We would like to see how significantly the house selling price varies with interior area under different season and frequency tours.    
+Outliers were removed prior to exploratory data analysis. Generally speaking, we have been aware of the fact that the housing price is primarily influenced by its interior area. Therefore, we categorized data into various groups such as house sold seasons and frequencies of house tour. We would like to see how significantly the house selling price varies with interior area under different season and frequency tours.    
 
 ### Recommendations:
 Different seasons make impact on house selling price and the willingness of joining house tours as well. We also noticed the house condition, location and age (built-year/grading) also affect house buyers to participate in house tours. Three recommendations are listed as follows:
