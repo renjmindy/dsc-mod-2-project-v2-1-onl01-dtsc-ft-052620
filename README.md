@@ -5,7 +5,6 @@ I would like to utilize this data to study house buyers' decision-making behavio
 
 ![Motivation](./image/Seattle_Zipcode.png)
 
-
 **What're major factors that may make impact on house buyers' behaviors?**
 
 * house **location**
@@ -170,7 +169,6 @@ Top15 influential features:
 ![Model](./image/mod2_model_final_submit_alt_qqhist.png)
 ![Model](./image/mod2_model_final_submit_alt_Top15_coefs.png)
 
-
   - **alternative** model (after p-Value selection):
   
 Top15 influential features: same aas above
@@ -179,7 +177,6 @@ Top15 influential features: same aas above
 ![Model](./image/mod2_model_final_submit_homo.png)
 ![Model](./image/mod2_model_final_submit_qqhist.png)
 ![Model](./image/mod2_model_final_submit_Top15_coefs.png)
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -297,4 +294,3 @@ To quantify our observations, a list of future work are needed.
 ### Future Work: same as above
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-
